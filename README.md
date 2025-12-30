@@ -257,4 +257,6 @@ docker-compose down -v
 
 ## 📄 License
 
-MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan.
+Copyright &copy; 2025 Muhammad Riza Zaidaan
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for more information.
